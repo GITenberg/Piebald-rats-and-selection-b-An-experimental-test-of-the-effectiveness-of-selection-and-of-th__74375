@@ -1,0 +1,31 @@
+_repo: Piebald-rats-and-selection-b-An-experimental-test-of-the-effectiveness-of-selection-and-of-th__74375
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Castle, William Ernest
+    gutenberg_agent_id: '57475'
+    url: http://www.gutenberg.org/2009/agents/57475
+  - agent_name: Phillips, John Charles
+    gutenberg_agent_id: '57476'
+    url: http://www.gutenberg.org/2009/agents/57476
+description: ''
+gutenberg_issued: '2024-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74375'
+language: en
+pgterms:marc905: 20080310021036castle
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Brian Wilson, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aWashington, DC :$bCarnegie Institution of Washington, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Piebald rats and selection : $b An experimental test of the effectiveness
+  of selection and of the theory of gametic purity in Mendelian crosses'
+url: http://www.gutenberg.org/ebooks/74375
